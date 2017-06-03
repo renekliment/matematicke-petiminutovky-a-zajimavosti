@@ -1,3 +1,3 @@
 # Matematické pětiminutovky a zajímavosti
 
-Automaticky generované PDF: [![PDF Status](https://www.sharelatex.com/github/repos/renekliment/matematicke-petiminutovky-a-zajimavosti/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/renekliment/matematicke-petiminutovky-a-zajimavosti/builds/latest/output.pdf)
+Vygenerované PDF v sekci [Releases](https://github.com/renekliment/matematicke-petiminutovky-a-zajimavosti/releases).
